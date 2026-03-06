@@ -18,12 +18,12 @@ global.info = {
  pairingNumber : '212711346299',
  figlet: 'silanalite', // create a start console display
  nomorwa : '212605784394',
- nameown : 'NOUREDDINE',
+ nameown : 'moussa',
  nomerown : '212717457920',
  packname : 'sticker by ',
- author : 'SILANA AI',
+ author : 'moussa ',
  namebot : '乂 SILANA AI',
- wm : 'SILANA LITE.',
+ wm : 'moussa LITE.',
  stickpack : 'Whatsapp',
  stickauth : 'SILANA LITE',
  jid: '@s.whatsapp.net'
@@ -52,9 +52,9 @@ global.media = {
 }
 // Social media
 global.url = {
- sig: 'https://instagram.com/noureddine_ouafy',
- sgh:  'https://instagram.com/noureddine_ouafy',
- sgc: 'https://whatsapp.com/channel/0029VaX4b6J7DAWqt3Hhu01A'
+ sig: 'https://www.instagram.com/moussa.22.17?igsh=MXMyczFkcHh2OW95OQ==',
+ sgh:  'https://www.instagram.com/moussa.22.17?igsh=MXMyczFkcHh2OW95OQ==',
+ sgc: 'https://whatsapp.com/channel/0029ValjaWz4CrfmZUxMrg0d'
 }
 // Donasi
 global.payment = {
